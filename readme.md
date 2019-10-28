@@ -7,6 +7,7 @@
 * Eloquent 
 * MySQL and Redis
 * DB caching with Redis
+* Serialization to json
 * Laravel-visits
 * Database migrations and seeds
 * Basic Bootstrap front-end
